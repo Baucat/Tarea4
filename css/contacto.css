@@ -1,0 +1,29 @@
+html{
+    background-color: black;
+}
+h1{
+    align-items: center;
+    text-align: center;
+}
+*{
+    color: orange;
+}
+.Caracteristica{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.Boton{
+    color: black;
+}
+.Boton2{
+    color: blue;
+}
+.tituloX{
+    border-style: solid;
+    border-color: orange;
+    border-radius: 5px;
+}
+.Cent{
+    text-align: center;
+}
